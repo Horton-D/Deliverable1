@@ -1,0 +1,12 @@
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.deps.json
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.runtimeconfig.json
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.runtimeconfig.dev.json
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.dll
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/bin/Debug/netcoreapp3.1/Deliverable1.pdb
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.csprojAssemblyReference.cache
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.AssemblyInfoInputs.cache
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.AssemblyInfo.cs
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.dll
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.pdb
+/Users/darriushorton/Documents/Garnd Circus/Deliverable1/Deliverable1/obj/Debug/netcoreapp3.1/Deliverable1.genruntimeconfig.cache
